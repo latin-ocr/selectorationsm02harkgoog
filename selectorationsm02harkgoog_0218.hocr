@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./selectorationsm02harkgoog_0218.png"; bbox 0 0 2725 4299; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 767 2959 2009 3009">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 767 2959 2009 3009">
+     <span class='ocr_line' id='line_1_1' title="bbox 767 2959 2009 3009; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 767 2959 1038 3009; x_wconf 85' lang='lat' dir='ltr'><strong>TEMPLE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1087 2959 1168 3008; x_wconf 78' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1208 2959 1496 3008; x_wconf 80' lang='lat' dir='ltr'>JUPITER</span> <span class='ocrx_word' id='word_1_4' title='bbox 1539 2959 2009 3009; x_wconf 84' lang='lat' dir='ltr'><strong>CAPITOLINUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1072 3085 2567 3242">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1072 3085 2567 3242">
+     <span class='ocr_line' id='line_1_2' title="bbox 1072 3085 1710 3139; baseline -0.003 -11"><span class='ocrx_word' id='word_1_5' title='bbox 1072 3085 1303 3135; x_wconf 78' lang='lat' dir='ltr'>(Restored</span> <span class='ocrx_word' id='word_1_6' title='bbox 1318 3086 1380 3139; x_wconf 86' lang='lat' dir='ltr'><strong>by</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1397 3086 1498 3128; x_wconf 80' lang='lat' dir='ltr'>Cav.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1519 3086 1710 3137; x_wconf 72' lang='lat' dir='ltr'><strong>canina.)</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 2417 3189 2567 3242; baseline -0.007 -11"><span class='ocrx_word' id='word_1_9' title='bbox 2417 3201 2459 3242; x_wconf 85' lang='lat' dir='ltr'><strong>p.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2478 3189 2567 3231; x_wconf 81' lang='lat'><strong>193.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2643 605 2655 1220">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2643 605 2655 1220">
+     <span class='ocr_line' id='line_1_4' title="bbox 2643 605 2655 1220; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 2643 605 2655 1220; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
